@@ -1,0 +1,10 @@
+﻿  cs4test.cpp
+C:\Users\e'e't\source\repos\cs4test\cs4test\cs4test.cpp(101,16): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“void *”
+C:\Users\e'e't\source\repos\cs4test\cs4test\cs4test.cpp(102,16): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“HMODULE”
+C:\Users\e'e't\source\repos\cs4test\cs4test\cs4test.cpp(258,16): warning C4244: “=”: 从“SIZE_T”转换到“int”，可能丢失数据
+C:\Users\e'e't\source\repos\cs4test\cs4test\cs4test.cpp(260,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SIZE_T”
+C:\Users\e'e't\source\repos\cs4test\cs4test\cs4test.cpp(260,12): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\e'e't\source\repos\cs4test\cs4test\cs4test.cpp(260,12): message : 请考虑在格式字符串中使用“%Id”
+C:\Users\e'e't\source\repos\cs4test\cs4test\cs4test.cpp(260,12): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\e'e't\source\repos\cs4test\cs4test\cs4test.cpp(261,12): warning C4477: “printf”: 格式字符串“%llx”需要类型“unsigned __int64”的参数，但可变参数 1 拥有了类型“LPVOID”
+  cs4test.vcxproj -> C:\Users\e'e't\source\repos\cs4test\x64\Debug\cs4test.exe
